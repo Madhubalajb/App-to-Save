@@ -1,7 +1,7 @@
 # App-to-Save
 > A simple android application for storing the user's basic details in a database.
 ## Getting Started
-This application is basically to get the details from the user such as **Name, Email, Mobile No, Date of birth, Gender detail, Address, Occupation and Annual Income**.
+This application is basically to get the details from the user such as **Name, Email ID, Mobile No, Date of birth, Gender detail, Address, Occupation and Annual Income**.
 Then it stores the above mentioned data in a **MySQL Database**.
 ## Prerequisites
 The following things need to be properly installed in your computer.
